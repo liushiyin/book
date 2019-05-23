@@ -1,0 +1,49 @@
+// mysql 设置编码
+
+#include "person.h"  
+#include <Windows.h>  
+#include <iostream>  
+#include <string>  
+#include <mysql.h>  
+#include <winsock.h>  
+  
+  
+using namespace std;  
+  
+int main(){  
+    MYSQL *con;  
+    MYSQL_RES *results;  
+    MYSQL_ROW record;  
+  
+    char dbuser[30] = "root";  
+    char dbpasswd[30] = "123456";  
+    char dbhost[30] = "localhost";  
+    char dbname[30] = "person";  
+    char tname[30] = "person";  
+    char *query = nullptr;  
+  
+    con = mysql_init(nullptr);  
+  
+    if (!mysql_real_connect(con, dbhost, dbuser, dbpasswd, dbname, 3306, NULL, 0)){  
+        cerr << "Failed to connect database" << endl;  
+        exit(2);  
+    }  
+  
+  
+    mysql_set_character_set(con, "gbk");  
+      
+    mysql_query(con, "insert into person(id, name) values('370983198811256977', '个')");  
+  
+    mysql_query(con, "select name,id from person where id = '370983198811256977'");  
+  
+    results = mysql_store_result(con);  
+  
+    cout << mysql_num_fields(results) << endl;  
+  
+    while ((record = mysql_fetch_row(results))){  
+        cout << record[0] << endl;  
+    }  
+      
+    mysql_close(con);  
+    return 0;   
+}  
