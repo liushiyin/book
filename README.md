@@ -21,3 +21,6 @@ https://www.jianshu.com/p/eaa56a6cd91a   -- lua热更新机制
 https://blog.csdn.net/iamoyjj/article/details/4195635   -- __declspec关键字详细用法
 
 https://www.jianshu.com/p/1588fd0b4135   -- coco2d-x基本动作
+
+https://www.jianshu.com/p/ba114e5f1105   -- LuaJavaBridge简单介绍
+
