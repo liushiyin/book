@@ -24,3 +24,5 @@ https://www.jianshu.com/p/1588fd0b4135   -- coco2d-x基本动作
 
 https://www.jianshu.com/p/ba114e5f1105   -- LuaJavaBridge简单介绍
 
+https://cuiqingcai.com/25.html   -- cocos2d-x场景切换动画合集
+
