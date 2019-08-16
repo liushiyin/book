@@ -26,3 +26,5 @@ https://www.jianshu.com/p/ba114e5f1105   -- LuaJavaBridge简单介绍
 
 https://cuiqingcai.com/25.html   -- cocos2d-x场景切换动画合集
 
+https://www.jianshu.com/p/9bdff90b6318   -- cocos-lua AssetsManagerEx详解
+
