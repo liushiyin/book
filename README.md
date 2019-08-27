@@ -31,3 +31,5 @@ https://www.jianshu.com/p/9bdff90b6318   -- cocos-lua AssetsManagerEx详解
 https://blog.csdn.net/lannan91/article/details/67637373    -- cocos2dx打包生成apk
 
 https://blog.csdn.net/wolinghuanyun/article/details/52474515  -- python解析xml
+
+https://blog.51cto.com/shahdza/1561937 -- cocos2d-x遮罩效果
