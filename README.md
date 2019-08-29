@@ -37,3 +37,5 @@ https://blog.51cto.com/shahdza/1561937 -- cocos2d-x遮罩效果
 https://www.jianshu.com/p/28589560d41f  -- lua生成字节码文件
 
 https://www.jianshu.com/p/398831d46ec1  -- 内联函数和宏定义的区别
+
+https://gameinstitute.qq.com/community    -- 腾讯游戏社区
