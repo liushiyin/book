@@ -43,3 +43,5 @@ https://gameinstitute.qq.com/community    -- 腾讯游戏社区
 https://gameinstitute.qq.com/community -- A* 寻路算法
 
 https://blog.csdn.net/bull521/article/details/53191866    -- cocos studio制作帧动画
+
+http://docs.manew.com/Script/     -- 中文文档
