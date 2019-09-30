@@ -34,6 +34,8 @@ https://blog.csdn.net/wolinghuanyun/article/details/52474515  -- python解析xml
 
 https://blog.51cto.com/shahdza/1561937 -- cocos2d-x遮罩效果
 
+https://blog.csdn.net/yudianxia/article/details/81738699   -- xlua-lib-build 关于android
+
 https://www.jianshu.com/p/28589560d41f  -- lua生成字节码文件
 
 https://www.jianshu.com/p/398831d46ec1  -- 内联函数和宏定义的区别
