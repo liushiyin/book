@@ -47,3 +47,5 @@ https://gameinstitute.qq.com/community -- A* 寻路算法
 https://blog.csdn.net/bull521/article/details/53191866    -- cocos studio制作帧动画
 
 http://docs.manew.com/Script/     -- 中文文档
+
+https://www.jianshu.com/p/bc1b047efd58   -- lua调用c
