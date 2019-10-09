@@ -49,3 +49,5 @@ https://blog.csdn.net/bull521/article/details/53191866    -- cocos studio制作�
 http://docs.manew.com/Script/     -- unity中文文档
 
 https://www.jianshu.com/p/bc1b047efd58   -- lua调用c
+
+https://blog.csdn.net/qq_35624156/article/details/78805289   ---基于Cocos2d-x的英雄联盟皮肤选择菜单
