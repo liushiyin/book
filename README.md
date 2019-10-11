@@ -61,3 +61,5 @@ https://gameinstitute.qq.com/community/detail/104843   -- unity特殊文件夹
 http://www.xionggf.com/articles/graphic/u3d/u3d_special_directory.html   --- Unity3D工程中的特殊文件夹及其在不同平台下的目录
 
 https://blog.csdn.net/MAOMAOXIAOHUO/article/details/51173812  --- Unity3d Application设备读写目录
+
+https://gameinstitute.qq.com/community/detail/100031   --- Unity资源解决方案之AssetBundle
