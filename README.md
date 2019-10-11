@@ -57,3 +57,5 @@ https://blog.csdn.net/Pwiling/article/details/51461722  --- C#中CLR（公共语
 https://blog.csdn.net/qq_33205561/article/details/82260445     ----  协程完成Unity的一些UI动画效果
 
 https://gameinstitute.qq.com/community/detail/104843   -- unity特殊文件夹
+
+http://www.xionggf.com/articles/graphic/u3d/u3d_special_directory.html   --- Unity3D工程中的特殊文件夹及其在不同平台下的目录
