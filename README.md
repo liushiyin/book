@@ -63,3 +63,5 @@ http://www.xionggf.com/articles/graphic/u3d/u3d_special_directory.html   --- Uni
 https://blog.csdn.net/MAOMAOXIAOHUO/article/details/51173812  --- Unity3d Application设备读写目录
 
 https://gameinstitute.qq.com/community/detail/100031   --- Unity资源解决方案之AssetBundle
+
+https://www.jianshu.com/p/a8f14d51dd1d   --- Unity iTween插件详解 
