@@ -65,3 +65,5 @@ https://blog.csdn.net/MAOMAOXIAOHUO/article/details/51173812  --- Unity3d Applic
 https://gameinstitute.qq.com/community/detail/100031   --- Unity资源解决方案之AssetBundle
 
 https://www.jianshu.com/p/a8f14d51dd1d   --- Unity iTween插件详解 
+
+https://blog.csdn.net/iamlegendary/article/details/53956119   -- cocos2dx 之Action变速运动
