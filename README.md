@@ -67,3 +67,5 @@ https://gameinstitute.qq.com/community/detail/100031   --- Unity资源解决方�
 https://www.jianshu.com/p/a8f14d51dd1d   --- Unity iTween插件详解 
 
 https://blog.csdn.net/iamlegendary/article/details/53956119   -- cocos2dx 之Action变速运动
+
+https://www.cnblogs.com/shawshawwan/p/9220818.html   -- 快速选择
