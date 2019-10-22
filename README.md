@@ -73,3 +73,5 @@ https://www.cnblogs.com/shawshawwan/p/9220818.html   -- 快速选择算法
 https://www.cnblogs.com/biyeymyhjob/archive/2012/07/31/2615833.html   -- 最短路径算法
 
 https://blog.csdn.net/weixin_39923777/article/details/83040458   -- Unity动态修改shadar参数
+
+http://dotween.demigiant.com/documentation.php   -- DOTween官方文档
