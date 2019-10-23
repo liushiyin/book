@@ -75,3 +75,5 @@ https://www.cnblogs.com/biyeymyhjob/archive/2012/07/31/2615833.html   -- 最短�
 https://blog.csdn.net/weixin_39923777/article/details/83040458   -- Unity动态修改shadar参数
 
 http://dotween.demigiant.com/documentation.php   -- DOTween官方文档
+
+https://blog.csdn.net/yushulx/article/details/78529934   -- Cmake添加动态库
