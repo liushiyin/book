@@ -77,3 +77,5 @@ https://blog.csdn.net/weixin_39923777/article/details/83040458   -- Unity动态�
 http://dotween.demigiant.com/documentation.php   -- DOTween官方文档
 
 https://blog.csdn.net/yushulx/article/details/78529934   -- Cmake添加动态库
+
+https://www.jianshu.com/p/ae332979a022  -- Unity3D - EventSystem完全掌握
