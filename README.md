@@ -79,3 +79,5 @@ http://dotween.demigiant.com/documentation.php   -- DOTween官方文档
 https://blog.csdn.net/yushulx/article/details/78529934   -- Cmake添加动态库
 
 https://www.jianshu.com/p/ae332979a022  -- Unity3D - EventSystem完全掌握
+
+https://blog.csdn.net/qq_34818497/article/details/79465053   -- Unity几种加载AssetBundle的方式
