@@ -70,6 +70,8 @@ https://blog.csdn.net/iamlegendary/article/details/53956119   -- cocos2dx 之Act
 
 https://www.cnblogs.com/shawshawwan/p/9220818.html   -- 快速选择算法
 
+https://blog.csdn.net/korekara88730/article/details/80565705  ---lua 报错处理
+
 https://www.cnblogs.com/biyeymyhjob/archive/2012/07/31/2615833.html   -- 最短路径算法
 
 https://blog.csdn.net/weixin_39923777/article/details/83040458   -- Unity动态修改shadar参数
