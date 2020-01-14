@@ -85,3 +85,5 @@ https://www.jianshu.com/p/ae332979a022  -- Unity3D - EventSystem完全掌握
 https://blog.csdn.net/qq_34818497/article/details/79465053   -- Unity几种加载AssetBundle的方式
 
 https://bitbucket.org/Unity-Technologies/ui/downloads/?tab=branches   --Unity UGUI源码下载
+
+https://gameinstitute.qq.com/community/detail/112504   -- Unity3D学习笔记uGUI（9）：Canvas详述
